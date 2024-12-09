@@ -41,7 +41,7 @@
 
 <div align=center>
   
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thanhnguyencanh&count_private=true
+# [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thanhnguyencanh&count_private=true
 )](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
