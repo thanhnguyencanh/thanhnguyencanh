@@ -3,8 +3,9 @@
 ### Hi, This is @ThanhNguyenCanh! 👋
 
 ### 🌱 Education  
-> 🔵 **M.S in Vehicle Convergence Engineering** at [**Robotics Lab**](https://www.jaist.ac.jp/robot/) from JAIST, Japan (2022.9 ~ 2024.9)  
-> 🔵 **B.S in Robotics** from UET, VNU, Hanoi, Vietnam(2018.8 ~ 2022.8)  
+> 🔵 **PhD.S in Information Science** at [**Robotics Lab**](https://www.jaist.ac.jp/robot/) from JAIST, Japan (2024.10 ~ Current)  
+> 🔵 **M.S in Information Science** at [**Robotics Lab**](https://www.jaist.ac.jp/robot/) from JAIST, Japan (2022.9 ~ 2024.9)  
+> 🔵 **B.S in Robotics Engineering** at [**Department of Robotics Engineering**]([https://www.jaist.ac.jp/robot/](https://sites.google.com/view/aimpuet/home)) from UET, VNU, Hanoi, Vietnam(2018.8 ~ 2022.8)  
 
 ### :orange_book: Reasearch Interest  
 > 🟠 **SLAM** - Semantic SLAM, Active SLAM, LifeLong SLAM, Visual SLAM, Visual-inertial odometry   
