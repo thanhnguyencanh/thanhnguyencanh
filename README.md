@@ -7,7 +7,7 @@
 > 🔵 **M.S in Information Science** at [**Robotics Lab**](https://www.jaist.ac.jp/robot/) from JAIST, Japan (2022.9 ~ 2024.9)  
 > 🔵 **B.S in Robotics Engineering** at [**Department of Robotics Engineering**](https://sites.google.com/view/aimpuet/home) from UET, VNU, Hanoi, Vietnam(2018.8 ~ 2022.8)  
 
-### :orange_book: Reasearch Interest  
+### :orange_book: Research Interest  
 > 🟠 **SLAM** - Semantic SLAM, Active SLAM, LifeLong SLAM, Visual SLAM, Visual-inertial odometry   
 > 🟠 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 > 🟠 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction, Neural rendering   
@@ -23,7 +23,7 @@
 
 
 
-[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)]([https://github.com/thanhnguyencanh](https://github.com/thanhnguyencanh/CV-resume/blob/main/CV_Nguyen_Canh_Thanh.pdf))
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)]([https://github.com/thanhnguyencanh](https://thanhnguyencanh.github.io/CV-resume/))
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyoung960302@gmail.com)](mailto:thanhnc@jaist.ac.jp)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-young-kim-595692139/)](https://www.linkedin.com/in/nguyencanhthanh/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)]([https://www.youtube.com/@tyoung96](https://www.youtube.com/@thanhnguyencanh8405))
