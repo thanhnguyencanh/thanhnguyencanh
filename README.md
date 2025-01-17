@@ -23,7 +23,7 @@
 
 
 
-[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)]([[https://github.com/thanhnguyencanh](https://thanhnguyencanh.github.io/CV-resume/)](https://thanhnguyencanh.github.io/CV-resume/))
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://thanhnguyencanh.github.io/CV-resume/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyoung960302@gmail.com)](mailto:thanhnc@jaist.ac.jp)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-young-kim-595692139/)](https://www.linkedin.com/in/nguyencanhthanh/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)]([https://www.youtube.com/@tyoung96](https://www.youtube.com/@thanhnguyencanh8405))
