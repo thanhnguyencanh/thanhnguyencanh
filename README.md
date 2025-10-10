@@ -14,8 +14,9 @@
 
 ### 🚀 Careers
 
-> ⚫ **Lecturer Assistant** at UET, VNU, [**Robotics Lab**]([https://robotics.hyundai.com/en/](https://fet.uet.vnu.edu.vn/bo-mon-ky-thuat-robot/)) (2022.11 ~ Current)  
-> ⚫ **Lecturer Assistant** at JAIST (Japan Advanced Institute of Science and Technology), [**Robotics Lab**](https://www.jaist.ac.jp/robot/) (2024.10 ~ Current)  
+> ⚫ **Lecturer** at UET, VNU, [**Robotics Lab**]([https://robotics.hyundai.com/en/](https://fet.uet.vnu.edu.vn/bo-mon-ky-thuat-robot/)) (2022.11 ~ Current)  
+> ⚫ **Teaching Assistant** at JAIST (Japan Advanced Institute of Science and Technology), [**Robotics Lab**](https://www.jaist.ac.jp/robot/) (2024.10 ~ Current)
+> > ⚫ **Reasearch Assistant** at JAIST (Japan Advanced Institute of Science and Technology), [**Robotics Lab**](https://www.jaist.ac.jp/robot/) (2023.10 ~ Current)  
 
 ### 👀 Who wants to know more about me, click it!
 
