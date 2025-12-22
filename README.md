@@ -42,7 +42,7 @@
 
 <div align=center> 
 
-[![Thanh Nguyen Canh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnguyencanh)](https://github.com/anuraghazra/github-readme-stats) 
+[![Thanh Nguyen Canh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnguyencanh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 
