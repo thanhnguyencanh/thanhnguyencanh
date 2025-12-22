@@ -36,7 +36,7 @@
 
 <div align=center>
 
-[![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fthanhnguyencanh&label=Github&icon=github&color=%23198754&message=&style=flat&tz=UTC)]
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fthanhnguyencanh&label=Github&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 </div>
 
