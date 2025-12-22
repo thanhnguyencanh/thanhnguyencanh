@@ -48,7 +48,7 @@
 </div>
 
 
-
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
