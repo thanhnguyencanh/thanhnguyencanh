@@ -40,11 +40,12 @@
 
 </div>
 
+<!--
 <div align=center> 
 
 [![Thanh Nguyen Canh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnguyencanh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-</div>
+</div> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
